@@ -27,7 +27,7 @@ while True:
         print(data)
         connected = False
 
-    #call IMDB scraper function
+    #call youtube scraper function
     d = youtube_scraper.youtube(data[0])
 
     #serialize using pick and send

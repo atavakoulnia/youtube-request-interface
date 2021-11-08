@@ -22,4 +22,3 @@ def send(msg):
 
 send(["free guys"]) #input the name of the movie
 receive()
-
