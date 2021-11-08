@@ -20,6 +20,6 @@ def send(msg):
     data = pickle.dumps(msg)
     s.send(data)
 
-send(["free guys"])
+send(["free guys"]) # input the name of the movie
 receive()
 
