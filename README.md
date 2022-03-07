@@ -2,13 +2,11 @@
 A micro-service, connected through sockets with Python, where users can search for videos on YouTube's database
 
 ## Introduction 
-This project includes 3 files:
 
-> youtube_scraper.py				     (This implements the youtube scraper microservice)
-> 
-> server.py					     (**credit:** (https://github.com/longmach/IMDB_scraper/blob/main/socket_server.py))
-> 
-> client.py					     (**credit:** (https://github.com/longmach/IMDB_scraper/blob/main/socket_client.py))
+    This project includes 3 files:
+    - youtube_scraper.py         			(This implements the YouTube scraper microservice)
+    - socket_server.py
+    - socket_client.py
 	
 ## Requirements
 - YouTube API Key
