@@ -3,11 +3,12 @@ A micro-service, connected through sockets with Python, where users can search f
 
 ## Introduction 
 > This project includes 3 files:
-> youtube_scraper.py				(This implements the youtube scraper microservice)
 > 
-> server.py					(**credit:** (https://github.com/longmach/IMDB_scraper/blob/main/socket_server.py))
+> youtube_scraper.py				     (This implements the youtube scraper microservice)
 > 
-> client.py					(**credit:** (https://github.com/longmach/IMDB_scraper/blob/main/socket_client.py))
+> server.py					     (**credit:** (https://github.com/longmach/IMDB_scraper/blob/main/socket_server.py))
+> 
+> client.py					     (**credit:** (https://github.com/longmach/IMDB_scraper/blob/main/socket_client.py))
 > 
 	
 ## Requirements
