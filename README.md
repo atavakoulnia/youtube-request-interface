@@ -20,6 +20,6 @@ A micro-service, connected through sockets with Python, where users can search f
 - Open a second terminal for client and run: ``` python3 client.py ```
 
 ## Packages
-- pip3 install beautifulsoup4
-- pip3 install python-dotenv
-- pip3 install google-api-python-client
+- ``` pip3 install beautifulsoup4 ```
+- ``` pip3 install python-dotenv ```
+- ``` pip3 install google-api-python-client ```
