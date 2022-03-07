@@ -16,12 +16,11 @@ A micro-service, connected through sockets with Python, where users can search f
 - Open the 'youtube_microservice' folder in VScode
 - In the file 'youtube_scraper.py' on line 6 paste your api key
 - Install packages
+
+## How to Run
 - Open a terminal for server and run: ``` python3 server.py ```
 - Open a second terminal for client and run: ``` python3 client.py ```
 - Finally, run ``` flask run ``` to run the program
-
-## How to Run
-- 
 
 ## Packages
 - ``` pip3 install beautifulsoup4 ```
