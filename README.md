@@ -1,4 +1,4 @@
-# YouTube Scraper
+# YouTube Request Interface
 A micro-service, connected through sockets with Python, where users can search for videos on YouTube's database.
 
 ## Introduction 
